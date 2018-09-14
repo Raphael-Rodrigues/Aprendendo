@@ -38,4 +38,5 @@ public class TesteJava {
         System.out.println(x.GetName() + " : " + x.GetinstanceCount());
     }
  //testando as coisas no git via Netbeans
+    //novos testes
 }
