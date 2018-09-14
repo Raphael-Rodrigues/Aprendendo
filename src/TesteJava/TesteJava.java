@@ -37,4 +37,5 @@ public class TesteJava {
         x.name = "zzz";
         System.out.println(x.GetName() + " : " + x.GetinstanceCount());
     }
+    //novo teste
 }
