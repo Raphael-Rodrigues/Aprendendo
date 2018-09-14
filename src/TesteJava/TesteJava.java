@@ -37,5 +37,4 @@ public class TesteJava {
         x.name = "zzz";
         System.out.println(x.GetName() + " : " + x.GetinstanceCount());
     }
- //testando as coisas no git   
 }
